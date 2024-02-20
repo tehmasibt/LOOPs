@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\bin\Debug\net8.0\LOOP.exe
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\bin\Debug\net8.0\LOOP.deps.json
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\bin\Debug\net8.0\LOOP.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\bin\Debug\net8.0\LOOP.dll
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\bin\Debug\net8.0\LOOP.pdb
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\LOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\LOOP.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\LOOP.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\LOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\LOOP.dll
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\refint\LOOP.dll
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\LOOP.pdb
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\LOOP.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Big task\LOOP\LOOP\obj\Debug\net8.0\ref\LOOP.dll
